@@ -1,0 +1,4 @@
+streamlit
+pgmpy
+matplotlib
+networkx
